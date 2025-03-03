@@ -14,4 +14,4 @@
 #define I2C1_SDA_PIN GP10
 #define I2C1_SCL_PIN GP11
 
-#define TAPPING_TERM 100
+#define TAPPING_TERM 150
