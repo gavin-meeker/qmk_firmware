@@ -1,4 +1,4 @@
-// Copyright 2023 Danny Nguyen (danny@keeb.io)
+// Copyright 2024 Gavin Meeker (@gavin-meeker)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
@@ -14,4 +14,4 @@
 #define I2C1_SDA_PIN GP10
 #define I2C1_SCL_PIN GP11
 
-#define TAPPING_TERM 140
+#define TAPPING_TERM 100

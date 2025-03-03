@@ -1,3 +1,6 @@
+// Copyright 2024 Gavin Meeker (@gavin-meeker)
+// SPDX-License-Identifier: GPL-2.0-or-later
+
 #include QMK_KEYBOARD_H
 #if __has_include("keymap.h")
 #    include "keymap.h"
